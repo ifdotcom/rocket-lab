@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+$font-primary: "Lato", sans-serif;
+$header-primary: #b20ecf46;
+$header-secondary: #ca5ad72f;
+
+$gradient-third: #65799b;
+$gradient-fourth: #5e2563;
+$gradient-fifth: #7117ea;
+$gradient-sixth: #ea6060;
+
+html {
+  font-size: 62.5%;
+}
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+
+body {
+  margin: 0;
+  font-family: $font-primary;
+}
+
+p {
+  font-size: 3.2em;
+}
